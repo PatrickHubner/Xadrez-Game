@@ -18,7 +18,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Executar no GIT Bash, pois as cores estão em codigo ANSI `<java application/Program>`
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <Xadrez>
 
 Para compilar o <Xadrez>, siga estas etapas:
 
