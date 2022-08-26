@@ -7,6 +7,8 @@ import tabuleiro.tabuleiro;
 public abstract class ChessPiece extends peça{
 	
 	private Color color;
+	private int moveCount;
+	
 	
 	
 	public ChessPiece(tabuleiro tabuleiro, Color color) {
@@ -18,7 +20,18 @@ public abstract class ChessPiece extends peça{
 	public Color getColor() {
 		return color;
 	}
+	public int getMoveCount() {
+		return moveCount;
+	}
+	
+	public void increaseMoveCount() {
+		moveCount++;
+	}
 
+	public void decreaseMoveCount() {
+		moveCount--;
+	}
+	
 	public ChessPosition getChessPosition() {
 		return ChessPosition.fromPosition(position);
 	}
