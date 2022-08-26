@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="xadrez.png" alt="xadrez">
+<img src="![xadrez](https://user-images.githubusercontent.com/100246090/186799603-c7f79a37-5587-45f3-8d7d-4ed5b295c943.png)" alt="xadrez">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
