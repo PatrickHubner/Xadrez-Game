@@ -24,7 +24,7 @@ Para compilar o <Xadrez>, siga estas etapas:
 
 Windows:
 ```
-<Clonar reposito, abrir pasta BIN e clicar com botão direito para abrir o GIT naquele diretorio e digitar o comando citado anteriormente>
+<Clonar repositório, abrir pasta BIN e clicar com botão direito para abrir o GIT naquele diretorio e digitar o comando citado anteriormente>
 ```
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
